@@ -14,7 +14,7 @@ const serializeFolder = folder => ({
 });
 const serializeNote = note => ({
   id: note.id,
-  date_modified: note.date_modified,
+  modified: note.modified,
   content: note.content,
   name: note.name,
   folder_id: note.folder_id

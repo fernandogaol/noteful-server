@@ -129,3 +129,4 @@
 {"message":"Folder with 9 was created.","level":"info"}
 {"message":"Note with id 28 deleted.","level":"info"}
 {"message":"Note with id 28 not found.","level":"error"}
+{"message":"Unauthorized request to path: /api","level":"error"}
